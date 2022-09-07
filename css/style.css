@@ -1,0 +1,31 @@
+.surpries{
+    color:blueviolet;
+    font-size: 50px;
+}
+body{
+background-color:#000000 ;
+color: white;
+}
+a{
+    color: white;
+
+}
+
+header{
+    padding: 50px;
+    background-color: #bc98f3;
+    text-align: center;
+
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+
+nav a{
+    color: #00cbcc;
+    padding: 14px 20px;
+    text-align: none;
+}
